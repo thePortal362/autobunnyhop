@@ -14,3 +14,6 @@
     Right click on the folder you downloaded the script in -> Choose open in terminal
 #### Execute the python script:
     python main.py
+
+> [!WARNING]
+> Sprint or use energy drinks to get the needed speed.
