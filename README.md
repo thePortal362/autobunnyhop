@@ -1,4 +1,4 @@
-# Shedule 1 auto bunnyhop script
+# Schedule 1 auto bunnyhop script
 ### A script to automate bunnyhopping in the game schedule 1, bunnyhopping results in moving faster.
 > [!WARNING]
 > Do NOT use this script in any games that have an anticheat, the anticheat will detect and block the input and ban you!
